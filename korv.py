@@ -2,6 +2,7 @@ import math
 
 print("---------------------------")
 print(".: KORVKOLLEN 1.0.2 :.")
+print(".:  Nackademin 2023 :.")
 print("---------------------------")
 print("Hur många elever vill ha... ")
 
